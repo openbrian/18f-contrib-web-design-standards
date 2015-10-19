@@ -1,0 +1,21 @@
+{
+  "name": "18f-contrib-web-design-standards",
+  "version": "1.0.0",
+  "description": "Wrapping the 18F Web Design Standards for use with Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS",
+    "18F",
+    "design",
+    "standard",
+    "sass"
+  ],
+  "author": "Brian DeRocher <brian@derocher.org>",
+  "license": "ISC",
+  "dependencies": {
+    "node-neat": "^1.7.2"
+  }
+}
