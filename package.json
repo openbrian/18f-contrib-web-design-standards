@@ -1,6 +1,6 @@
 {
   "name": "18f-contrib-web-design-standards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapping the 18F Web Design Standards for use with Node.",
   "main": "index.js",
   "scripts": {
